@@ -1,0 +1,1 @@
+Библиотеки из архива "Add this to libs.zip" необходимо закинуть в папку с библиотеками Arduino IDE. Обычно расположена по адресу Documents\Arduino\libraries
