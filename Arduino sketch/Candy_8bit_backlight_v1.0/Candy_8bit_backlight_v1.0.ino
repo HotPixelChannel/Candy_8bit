@@ -7,7 +7,7 @@
 
 
   Candy 8 bit System: https://youtu.be/0IENeqXopUg
-  Обсуждение платы: ссылка
+  Обсуждение платы: https://www.emu-land.net/forum/index.php?topic=86361
   Для версии платы приставки: 1.х
   Версия скетча: 1.0
 
